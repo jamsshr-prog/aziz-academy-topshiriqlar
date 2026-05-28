@@ -1,0 +1,7 @@
+n = int(input())
+lst = list(map(int, input().split()))
+last = lst.pop()
+second_last = lst.pop()
+print(last)
+print(second_last)
+print(lst)
