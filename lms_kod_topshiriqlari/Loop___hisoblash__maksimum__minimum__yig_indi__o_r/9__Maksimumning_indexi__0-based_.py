@@ -1,0 +1,5 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+maks_qiymat = max(sonlar)
+indeks = sonlar.index(maks_qiymat)
+print(indeks)
