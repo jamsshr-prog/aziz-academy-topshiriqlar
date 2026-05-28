@@ -1,0 +1,5 @@
+n = int(input())
+lst = list(map(int, input().split()))
+popped = lst.pop(0)
+print(popped)
+print(lst)
