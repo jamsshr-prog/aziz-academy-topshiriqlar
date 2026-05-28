@@ -1,0 +1,2 @@
+
+print(f"Tug'ilgan sana: {'-'.join(input().split())}")
