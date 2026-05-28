@@ -1,0 +1,10 @@
+price = float(input())
+if price >= 100:
+    if price >= 500:
+        price = price * 0.8
+    else:
+        price = price * 0.9
+else:
+    price = price 
+print(price)
+        
