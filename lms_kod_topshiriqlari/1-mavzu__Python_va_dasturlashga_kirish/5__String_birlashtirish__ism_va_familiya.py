@@ -1,3 +1,3 @@
-x = input()
-c = input()
-print(f"Salom, {x} {c}!")
+ism = input()
+familiya =input()
+print("Salom, " + ism + " " + familiya + "!")
