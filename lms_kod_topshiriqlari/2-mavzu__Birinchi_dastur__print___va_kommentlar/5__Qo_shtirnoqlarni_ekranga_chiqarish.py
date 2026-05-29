@@ -1,1 +1,1 @@
-print(' Bugun "Python" darsini boshlaymiz.')
+print("Bugun \"Python\" darsini boshlaymiz.")
