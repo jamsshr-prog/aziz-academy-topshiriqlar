@@ -1,2 +1,2 @@
-a, b = map(float, input().split())
-print(a + b)
+a, b = input().split()
+print(int(a) + float(b))
