@@ -1,0 +1,5 @@
+login = input()
+parol = input()
+parol_uzunligi = len(parol)
+print("Login:", login)
+print("Parol uzunligi:", parol_uzunligi)
