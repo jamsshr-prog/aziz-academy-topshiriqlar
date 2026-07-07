@@ -1,1 +1,2 @@
-print("xurshid")
+print("A", "B", "C", sep="-", end=" -> ")
+print("Yakun")
