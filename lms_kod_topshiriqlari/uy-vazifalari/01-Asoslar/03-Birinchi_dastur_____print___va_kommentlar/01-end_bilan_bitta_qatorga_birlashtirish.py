@@ -1,1 +1,2 @@
-print("xxx")
+print("Salom", end=" ")
+print("dunyo!")
