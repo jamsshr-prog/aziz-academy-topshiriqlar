@@ -1,1 +1,1 @@
-print("men xursandman")
+print("olma", "banan", "uzum", sep=", ")
