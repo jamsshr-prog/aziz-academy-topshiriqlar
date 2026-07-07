@@ -1,1 +1,4 @@
-print("2 x 2 = 5")
+print(2 + 3 * 4)
+print((2 + 3) * 4)
+print(2 ** 3 + 1)
+print(10 - 2 * 3)
