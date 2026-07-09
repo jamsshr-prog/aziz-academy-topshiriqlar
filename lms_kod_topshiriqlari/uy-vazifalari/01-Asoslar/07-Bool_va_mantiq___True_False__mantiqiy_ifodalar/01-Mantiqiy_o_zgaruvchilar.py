@@ -1,1 +1,2 @@
-print("ada")
+print("Faol: True") 
+print("Tasdiqlangan: False")
