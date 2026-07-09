@@ -1,1 +1,2 @@
-print("dddd")
+ism = "Aziz"
+print("Ism:", ism)
