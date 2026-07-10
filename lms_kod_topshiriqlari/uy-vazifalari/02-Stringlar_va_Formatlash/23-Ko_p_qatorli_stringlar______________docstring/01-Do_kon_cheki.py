@@ -1,0 +1,10 @@
+mahsulot = input()
+narx = int(input())
+soni = int(input())
+jami = narx * soni 
+print("===== CHEK =====")
+print("Mahsulot:", mahsulot)
+print("Narx:", narx)
+print("Soni:", soni)
+print("Jami:", jami)
+print("================")
