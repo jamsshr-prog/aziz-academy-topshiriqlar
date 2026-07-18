@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — XAYDAROV XURSHID
+# 🎓 Aziz Academy — Xaydarov Xurshid
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **36415**
-- 📤 GitHubga yuborilgan topshiriqlar: **723**
+- ⭐ Jami ball: **36535**
+- 📤 GitHubga yuborilgan topshiriqlar: **724**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-14 11:10</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 10:03</sub>
