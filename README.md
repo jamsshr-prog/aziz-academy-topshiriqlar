@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **18%**  (32/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **19%**  (34/179 mavzu)
 
-- ⭐ Jami ball: **60909**
-- 📤 GitHubga yuborilgan topshiriqlar: **903**
+- ⭐ Jami ball: **150535**
+- 📤 GitHubga yuborilgan topshiriqlar: **904**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **Dict metodlari — keys(), values(), items(), get()**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich**
 
-➡️ Keyingi mavzu: *🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich*
+➡️ Keyingi mavzu: *Set — asoslar: yaratilish, in, len, takrorlanmaslik*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -25,8 +25,8 @@
 - ✅ Tuple — o'zgarmas tuzilma, qachon kerak
 - ✅ Tuple unpacking ⭐ — a, b = b, a
 - ✅ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ✅ Dict metodlari — keys(), values(), items(), get()  ← yetgan joyingiz
-- ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
+- ✅ Dict metodlari — keys(), values(), items(), get()
+- ✅ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich  ← yetgan joyingiz
 - ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
 - ⬜ Set operatsiyalari — union, intersection, difference
 - ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
@@ -45,8 +45,8 @@
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
 | 2 | 🔸 Stringlar va Formatlash | `████░░░░░░` 40% | 4/10 |
-| 3 | 🔸 Shartlar va Sikllar | `██████░░░░` 60% | 9/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `████░░░░░░` 44% | 8/18 |
+| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 67% | 10/15 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `█████░░░░░` 50% | 9/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-19 13:51</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-22 13:17</sub>
